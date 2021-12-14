@@ -2,7 +2,7 @@
 <nav id="navbar-top" class="navbar navbar-expand-xl navbar-dark px-0 px-xl-5 bg-primary">
     <div class="container-fluid">
         <a class="navbar-brand d-flex flex-row align-items-center" href="/">
-            <img src="img/logo_small.png" alt="logo kecamatan tana lia">
+            <img src="{{url('img/logo_small.png')}}"  alt="logo kecamatan tana lia">
             <div class="brand-name d-flex flex-column">Kecamatan<span class="fw-bolder ">Tana Lia</span>Kab.
                 Tana Tidung</div>
         </a>
@@ -21,10 +21,10 @@
                         Profil Kecamatan
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <li><a class="dropdown-item" href="/deskripsi">Deskripsi</a></li>
-                        <li><a class="dropdown-item" href="/struktur-organisasi">Struktur Pemerintahan</a></li>
-                        <li><a class="dropdown-item" href="/visi-misi">Visi Misi</a></li>
-                        <li><a class="dropdown-item" href="/geografis">Letak Geografis</a></li>
+                        <li><a class="dropdown-item" href="/profile/deskripsi">Deskripsi</a></li>
+                        <li><a class="dropdown-item" href="/profile/struktur-organisasi">Struktur Pemerintahan</a></li>
+                        <li><a class="dropdown-item" href="/profile/visi-misi">Visi Misi</a></li>
+                        <li><a class="dropdown-item" href="/profile/geografis">Letak Geografis</a></li>
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
@@ -56,8 +56,8 @@
                         Publikasi
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <li><a class="dropdown-item" href="#">Pengumuman</a></li>
-                        <li><a class="dropdown-item" href="#">Foto</a></li>
+                        <li><a class="dropdown-item" href="/publikasi/pengumuman">Pengumuman</a></li>
+                        <li><a class="dropdown-item" href="/publikasi/foto">Foto</a></li>
                         <li><a class="dropdown-item" href="#">Video</a></li>
                         <li><a class="dropdown-item" href="#">Berita</a></li>
                     </ul>
