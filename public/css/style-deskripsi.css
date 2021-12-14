@@ -1,0 +1,60 @@
+
+.container-kiri{
+    width: 70%;
+
+}
+
+.jumbotron-judul img{
+    margin-bottom: 30px;
+}
+
+.text-wrap p{
+    font-size: 18px;
+    line-height: 30px;
+}
+
+/* kanan / berita */
+.container-kanan{
+    width: 30%;
+    height: 300px;
+    padding-right: 48px;
+}
+
+.jumbotron-berita{
+    padding-top: 136px;
+}
+
+.jumbotron-berita h1{
+    color: #393939;
+    font-weight: bold;
+    line-height: 46.5px;
+    margin-bottom: 30px;
+    font-size: 31px;
+}
+
+.card-berita{
+    width: 100%;
+    padding: 40px;
+    border: 1px solid #DCDCDC;
+    margin-bottom: 30px;
+}
+
+.card-berita .img-fluid{
+    /* width: 324px; */
+    overflow: auto;
+    height: 195px;
+}
+
+.judul-berita h4{
+    font-size: 26px;
+    line-height: 46.5px;
+    font-weight: bold;
+    color: #393939;
+    margin-bottom: 0;
+}
+
+.judul-berita span{
+    margin-top: 0;
+    font-size: 16px;
+    color: #8E8E8E;
+}

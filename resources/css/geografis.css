@@ -1,0 +1,82 @@
+/* jumbotron */
+.jumbotron-judul{
+    padding: 70px;
+}
+
+.jumbotron-judul h1{
+    color: #393939;
+    font-weight: bold;
+    line-height: 58px;
+    margin-bottom: 30px;
+}
+
+.jumbotron-judul .url .text-danger {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    color: #E3352E;
+}
+
+.jumbotron-judul .url .text-secondary{
+    font-size: 20px;
+    line-height: 30px;
+    color: #393939;
+    
+}
+
+.jumbotron-judul .img-fluid{
+    margin-top: 30px;
+    background-size: cover;
+}
+
+/* lokasi */
+.lokasi .img-fluid{
+    width: 600px;
+    height: 550px;
+    background-size: cover;
+
+}
+
+.lokasi p{
+    font-size: 18px;
+    line-height: 30px;
+}
+
+/* responsive */
+@media(max-width: 768px){
+    #lokasi-container{
+        padding: 0 48px !important;
+    }
+
+    .text-wrap{
+        text-align: justify;
+    }
+
+    .jumbotron-judul{
+        padding-left: 48px;
+        padding-right: 48px;
+    }
+}
+
+@media(max-width: 620px){
+    #maps{
+        width: 550px;
+        height: 450px;
+    }
+
+    .jumbotron-judul{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
+
+@media(max-width: 560px){
+    #maps{
+        width: 500px;
+        height: 400px;
+    }
+
+    #lokasi-container{
+        padding: 0 30px !important;
+    }
+}
