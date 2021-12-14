@@ -17,22 +17,34 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/geografis', function () {
-    return view('letak-geografis');
+Route::get('/profile/geografis', function () {
+    return view('profile/letak-geografis');
 });
 
-Route::get('/deskripsi', function () {
-    return view('deskripsi');
+Route::get('/profile/deskripsi', function () {
+    return view('profile/deskripsi');
 });
 
-Route::get('/visi-misi', function () {
-    return view('visi-misi');
+Route::get('/profile/visi-misi', function () {
+    return view('profile/visi-misi');
 });
 
-Route::get('/struktur-organisasi', function () {
-    return view('struktur-organisasi');
+Route::get('/profile/struktur-organisasi', function () {
+    return view('profile/struktur-organisasi');
 });
 
 Route::get('/kontak', function () {
     return view('kontak');
+});
+
+Route::get('/publikasi', function () {
+    return view('publikasi');
+});
+
+Route::get('/publikasi/pengumuman', function () {
+    return view('publikasi/pengumuman');
+});
+
+Route::get('/publikasi/foto', function () {
+    return view('publikasi/foto');
 });
