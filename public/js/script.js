@@ -41,6 +41,17 @@ $(document).ready(function () {
 
 });
 
+$("#carouselExampleControls").bind("slide.bs.carousel", function (e) {
+    setTimeout(() => {
+        let carouselState = $("#carouselExampleControls > .carousel-inner > .active > img");
+        let attr = $(carouselState).attr("src");
+        let imgState = $(".img-gallery[src='" + attr + "']");
+        $(".img-gallery").removeClass("gallery-active");
+        $(imgState).addClass("gallery-active");
+    }, 650);
+
+})
+
 document.addEventListener("DOMContentLoaded", function () {
     window.addEventListener('scroll', function () {
         if (window.scrollY > 250) {
