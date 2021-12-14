@@ -18,7 +18,6 @@
     <!-- Navbar -->
     @include('navbar')
     <!-- akhir Navbar -->
-    </>
     <!-- jumbotron -->
     <section class="container-fluid row p-5 m-0">
         <h1 class="p-0 fw-bold mb-3">Visi Misi</h1>
