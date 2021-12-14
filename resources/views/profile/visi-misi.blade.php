@@ -29,7 +29,7 @@
             <div>
                 <div>
                     <h4 class="fw-bold">Visi</h4>
-                    <div class="text-center">
+                    <div class="text-center mb-3">
                         “Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean faucibus vestibulum, augue eu pretium, sit eget imperdiet adipiscing. Euismod egestas at sed lorem quis mi. Et ut lorem quis proin.”
                     </div>
                 </div>
