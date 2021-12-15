@@ -22,7 +22,7 @@
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                         <li><a class="dropdown-item" href="/profile/deskripsi">Deskripsi</a></li>
-                        <li><a class="dropdown-item" href="/profile/struktur-organisasi">Struktur Pemerintahan</a></li>
+                        <li><a class="dropdown-item" href="/profile/struktur-pemerintahan">Struktur Pemerintahan</a></li>
                         <li><a class="dropdown-item" href="/profile/visi-misi">Visi Misi</a></li>
                         <li><a class="dropdown-item" href="/profile/geografis">Letak Geografis</a></li>
                     </ul>
