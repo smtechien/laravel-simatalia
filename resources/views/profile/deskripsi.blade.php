@@ -22,7 +22,7 @@
         <h1 class="p-0 fw-bold mb-3">Deskripsi</h1>
         <div class="col-12 col-xl-8 p-0">
             <p class="url"><span class="text-secondary">Si Mata Lia > Profil Kecamatan ></span> <span
-                    class="text-danger">Deskripsi</span></p>
+                    class="text-danger fw-bold">Deskripsi</span></p>
             <img class="img-fluid mb-4" src="{{url('img/image-deskripsi.png')}}" alt="image deskripsi">
             <div class="text-wrap">
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ac feugiat morbi a, velit mauris. Aliquet id

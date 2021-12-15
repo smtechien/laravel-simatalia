@@ -24,7 +24,7 @@
         <h1 class="p-0 fw-bold mb-3">Struktur Organisasi</h1>
         <div class="col-12 col-xl-8 p-0">
             <p class="url"><span class="text-secondary">Si Mata Lia > Profil Kecamatan ></span> <span
-                    class="text-danger">Struktur Organisasi</span></p>
+                    class="text-danger fw-bold">Struktur Pemerintahan</span></p>
             <iframe id="doc_23125" class="d-block mb-3" title="Struktur Organisasi Pemprov Kaltim" src="https://www.scribd.com/embeds/366861680/content?start_page=1&amp;view_mode=scroll&amp;access_key=key-pp8NtZQXIglozbQhQCSJ&amp;show_recommendations=true" width="100%" height="600px" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="1.645985401459854"></iframe>
         </div>
         <div class="col d-flex flex-column side-content">

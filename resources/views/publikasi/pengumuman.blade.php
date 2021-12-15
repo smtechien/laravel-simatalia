@@ -24,7 +24,7 @@
         <h1 class="p-0 fw-bold mb-3">Pengumuman</h1>
         <div class="col-12 p-0">
             <p class="url pb-3"><span class="text-secondary">Si Mata Lia > Publikasi ></span> <span
-                    class="text-danger">Pengumuman</span>
+                    class="text-danger fw-bold">Pengumuman</span>
             </p>
 
             <div class="d-flex flex-row alert-primary gap-3 p-5">

@@ -24,7 +24,7 @@
         <h1 class="p-0 fw-bold mb-3">Foto</h1>
         <div class="col-12 p-0">
             <p class="url"><span class="text-secondary">Si Mata Lia > Publikasi ></span> <span
-                    class="text-danger">Foto</span>
+                    class="text-danger fw-bold">Foto</span>
             </p>
         </div>
     </section>

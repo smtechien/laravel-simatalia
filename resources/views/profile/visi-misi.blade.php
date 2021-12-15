@@ -23,7 +23,7 @@
         <h1 class="p-0 fw-bold mb-3">Visi Misi</h1>
         <div class="col-12 col-xl-8 p-0">
             <p class="url"><span class="text-secondary">Si Mata Lia > Profil Kecamatan ></span> <span
-                    class="text-danger">Visi Misi</span></p>
+                    class="text-danger fw-bold">Visi Misi</span></p>
         <hr>
             <div>
                 <div>
