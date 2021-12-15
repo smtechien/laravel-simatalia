@@ -58,8 +58,8 @@
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                         <li><a class="dropdown-item" href="/publikasi/pengumuman">Pengumuman</a></li>
                         <li><a class="dropdown-item" href="/publikasi/foto">Foto</a></li>
-                        <li><a class="dropdown-item" href="#">Video</a></li>
-                        <li><a class="dropdown-item" href="#">Berita</a></li>
+                        <li><a class="dropdown-item" href="/publikasi/video">Video</a></li>
+                        <li><a class="dropdown-item" href="/publikasi/berita">Berita</a></li>
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
