@@ -17,6 +17,11 @@ Route::get('/', function () {
     return view('index');
 });
 
+// profile section
+Route::get('/profile', function () {
+    return view('profile');
+});
+
 Route::get('/profile/geografis', function () {
     return view('profile/letak-geografis');
 });
@@ -29,14 +34,15 @@ Route::get('/profile/visi-misi', function () {
     return view('profile/visi-misi');
 });
 
-Route::get('/profile/struktur-organisasi', function () {
-    return view('profile/struktur-organisasi');
+Route::get('/profile/struktur-pemerintahan', function () {
+    return view('profile/struktur-pemerintahan');
 });
 
 Route::get('/kontak', function () {
     return view('kontak');
 });
 
+// publikasi section
 Route::get('/publikasi', function () {
     return view('publikasi');
 });
@@ -47,4 +53,16 @@ Route::get('/publikasi/pengumuman', function () {
 
 Route::get('/publikasi/foto', function () {
     return view('publikasi/foto');
+});
+
+Route::get('/publikasi/video', function(){
+    return view('publikasi/video');
+});
+
+Route::get('/publikasi/berita', function(){
+    return view('publikasi/berita');
+});
+
+Route::get('/publikasi/berita/judul-berita', function(){
+    return view('publikasi/konten-berita');
 });
