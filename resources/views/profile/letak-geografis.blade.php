@@ -33,7 +33,7 @@
       </div>
       <div class="text-wrap">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ac feugiat morbi a, velit mauris. Aliquet id diam ultricies in. Tristique ornare imperdiet volutpat arcu etiam. Adipiscing tempus, dui parturient enim porta elementum elementum. Morbi nunc sagittis egestas faucibus sit cras. Faucibus massa amet risus dignissim arcu facilisis ultrices ullamcorper pellentesque. Sodales quam cursus malesuada eros hendrerit ornare id. Potenti amet aenean id interdum porta sit purus vitae. Sit amet faucibus volutpat commodo, vivamus mattis blandit.
+          Berdasarkan topografinya Kecamatan Tana Lia, 50% merupakan wilayah datar sampai berombak dan 50% berombak sampai berbukit dan berada pada ketinggian 3,5 meter dari permukaan laut.
           </p>
           <p>
             Fermentum pellentesque tortor, sed tempor id diam arcu ut. Viverra et morbi eget proin ultrices nullam ut. Ut interdum neque placerat ut vitae dapibus fusce mauris etiam. Lacus, eget a leo, pretium, et sit congue. Nisl non et amet fermentum. Praesent sed neque, enim, venenatis suspendisse scelerisque lorem habitant. Accumsan, enim massa pharetra, facilisi ac aliquam. Vestibulum in ut ipsum in pharetra duis. Turpis fusce sed nunc, sit morbi etiam donec. Posuere platea gravida turpis sed phasellus blandit diam sagittis blandit. Elementum diam duis massa sit lorem ut. Semper suspendisse lectus ipsum a ultricies sapien. Tellus enim porta tortor eget.
