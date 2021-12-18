@@ -1,9 +1,7 @@
 <footer class="container-fluid mt-5 bg-footer py-5 px-5 px-lg-5 d-flex text-white row w-100 mx-0 gap-3 gap-md-0">
     <div class="col-12 col-md-6">
         <h5 class="fw-bold">Hubungi Kami</h5>
-        <p>Jl. Agis Pulak RT. 05, Desa Sesayap,<br>
-            Kecamatan Sesayap Hilir,<br>
-            Kab. Tana Tidung - Kalimantan Utara 77153</p>
+        <p>Jl.Tarakan Jaya No. 1 RT.1, Desa Tanah Merah, Kecamatan Tana Lia,<br> Kabupaten Tana Tidung, Provinsi Kalimantan Utara.</p>
         <p>Konsultasi : 0813-2109-9908 (Telp/WhatsApp)</p>
         <p>Email : info@sesayaphilir.com</p>
         <p>Official Website : www.sesayaphilir.com</p>
