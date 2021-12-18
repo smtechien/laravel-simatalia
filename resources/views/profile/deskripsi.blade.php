@@ -25,25 +25,10 @@
                     class="text-danger fw-bold">Deskripsi</span></p>
             <img class="img-fluid mb-4" src="{{url('img/image-deskripsi.png')}}" alt="image deskripsi">
             <div class="text-wrap">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ac feugiat morbi a, velit mauris. Aliquet id
-                    diam ultricies in. Tristique ornare imperdiet volutpat arcu etiam. Adipiscing tempus, dui parturient
-                    enim porta elementum elementum. Morbi nunc sagittis egestas faucibus sit cras. Faucibus massa amet
-                    risus dignissim arcu facilisis ultrices ullamcorper pellentesque. Sodales quam cursus malesuada eros
-                    hendrerit ornare id. Potenti amet aenean id interdum porta sit purus vitae. Sit amet faucibus
-                    volutpat commodo, vivamus mattis blandit.</p>
-                <p>Fermentum pellentesque tortor, sed tempor id diam arcu ut. Viverra et morbi eget proin ultrices
-                    nullam ut. Ut interdum neque placerat ut vitae dapibus fusce mauris etiam. Lacus, eget a leo,
-                    pretium, et sit congue. Nisl non et amet fermentum. Praesent sed neque, enim, venenatis suspendisse
-                    scelerisque lorem habitant. Accumsan, enim massa pharetra, facilisi ac aliquam. Vestibulum in ut
-                    ipsum in pharetra duis. Turpis fusce sed nunc, sit morbi etiam donec. Posuere platea gravida turpis
-                    sed phasellus blandit diam sagittis blandit. Elementum diam duis massa sit lorem ut. Semper
-                    suspendisse lectus ipsum a ultricies sapien. Tellus enim porta tortor eget.</p>
-                <p>Fermentum pellentesque tortor, sed tempor id diam arcu ut. Viverra et morbi eget proin ultrices
-                    nullam ut. Ut interdum neque placerat ut vitae dapibus fusce mauris etiam. Lacus, eget a leo,
-                    pretium, et sit congue. Nisl non et amet fermentum. Praesent sed neque, enim, venenatis suspendisse
-                    scelerisque lorem habitant. Accumsan, enim massa pharetra, facilisi ac aliquam. Vestibulum in ut
-                    ipsum in pharetra duis. Turpis fusce sed nunc, sit morbi etiam donec. Posuere platea gravida turpis
-                    sed phasellus blandit diam sagittis blandit. </p>
+                <p>Kecamatan Tana Lia sebagai salah satu kecamatan di Kabupaten Tana Tidung, mempunyai luas 76.790,09 ha. Berbatasan sebelah Utara dengan Kabupaten Nunukan, Selatan berbatasan dengan Pulau Bunyu, Barat berbatasan dengan Kecamatan Sembakung dan Timur berbatasan dengan Laut Sulawesi.</p>
+                <p>Kecamatan Tana Lia terdiri dari 5 desa dengan desa terluasnya adalah Desa Tengku Dacing dengan luas 25.943,97 ha, sedangkan desa dengan luas terkecil adalah Desa Sambungan Selatan yang luasnya hanya 706,64 ha.</p>
+                <p>Pembentukan Kecamatan Tana Lia sesuai Peraturan Daerah Kabupaten Bulungan Nomor 13 Tahun 2002 tentang pembentukan Kecamatan Tanjung Palas Barat, Tanjung Palas Utara, Tanjung Palas Timur, Tanjung Selor, Tanjung Palas Tengah, Sesayap Hilir, Tana Lia dan Kecamatan Peso Hillir dalam wilayah Kabupaten Bulungan yang ditetapkan pada tanggal 15 Agustus 2002. </p>
+                <p>Tetapi dengan Undang-undang Nomor 34 Tahun 2007 tentang pembentukan Kabupaten Tana Tidung, maka Kecamatan Sesayap Hilir dan Tana Lia termasuk dalam wilayah Kabupaten Tana Tidung. Hingga kini di wilayah Kecamatan Tana Lia terdapat 5 (lima) desa, yaitu : Desa Tanah Merah, Tengku Dacing, Sambungan, Tanah Merah Barat dan Sambungan Selatan.</p>
             </div>
         </div>
         <div class="col d-flex flex-column side-content">
