@@ -29,16 +29,19 @@
                 <div>
                     <h4 class="fw-bold">Visi</h4>
                     <div class="text-center mb-3">
-                        “Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean faucibus vestibulum, augue eu pretium, sit eget imperdiet adipiscing. Euismod egestas at sed lorem quis mi. Et ut lorem quis proin.”
+                        “Terwujudnya Pusat Pelayanan Publik Yang Cepat, Bersih, Transparan, Aman dan Tentram di Kecamatan Tana Lia”
                     </div>
                 </div>
                 <div>
                     <h4 class="fw-bold">Misi</h4>
                     <div class="text-justify">
                         <ol class="d-block p-0 m-0 ms-4">
-                            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean faucibus vestibulum, augue eu pretium, sit eget imperdiet adipiscing</li>
-                            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean faucibus vestibulum, augue eu pretium, sit eget imperdiet adipiscing</li>
-                            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean faucibus vestibulum, augue eu pretium, sit eget imperdiet adipiscing</li>
+                            <li>Meningkatkan kualitas pelayanan kepada masyarakat dan menjunjung tinggi etika serta kejujuran.</li>
+                            <li>Meningkatkan kapasitas dan sumber daya aparatur.</li>
+                            <li>Meningkatkan peran serta dan partisipasi masyarakat dalam pembangunan.</li>
+                            <li>Meningkatkan kesejahteraan masyarakat melalui pengembangan usaha yang berbasis ekonomi kerakyatan.</li>
+                            <li>Meningkatkan pembangunan dan pemeliharaan infrastruktur, sarana dan prasarana umum.</li>
+                            <li>Meningkatkan pemahaman dan pengamalan dalam kehidupan beragama dan bernegara.</li>
                         </ol>
                     </div>
                 </div>
