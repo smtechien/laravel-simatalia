@@ -31,8 +31,7 @@
                     <h4 class="fw-bold">Hubungi Kami</h4>
                     <div class="d-flex flex-row gap-3">
                         <i class="material-icons">house</i>
-                        <p>Jl. Agis Pulak RT. 05, Desa Sesayap Kecamatan Sesayap Hilir <br>
-                            Kab. Tana Tidung - Kalimantan Utara 77153</p>
+                        <p>Jl.Tarakan Jaya No. 1 RT.1, Desa Tanah Merah, Kecamatan Tana Lia, <br> Kabupaten Tana Tidung, Provinsi Kalimantan Utara.</p>
                     </div>
                     <div class="col-8 d-flex flex-row gap-3">
                         <i class="material-icons">local_phone</i>
