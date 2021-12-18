@@ -33,13 +33,13 @@
         <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="{{url('img/dgallery-1.jpg')}}"  class="d-block w-100" alt="...">
+                    <img src="{{url('img/foto-1.jpg')}}"  class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item">
-                    <img src="{{url('img/dgallery-2.jpg')}}" class="d-block w-100" alt="...">
+                    <img src="{{url('img/foto-2.jpg')}}" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item">
-                    <img src="{{url('img/dgallery-3.jpg')}}" class="d-block w-100" alt="...">
+                    <img src="{{url('img/foto-3.jpg')}}" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item">
                     <img src="{{url('img/dgallery-4.jpg')}}" class="d-block w-100" alt="...">
@@ -50,12 +50,7 @@
                 <div class="carousel-item">
                     <img src="{{url('img/dgallery-6.jpg')}}" class="d-block w-100" alt="...">
                 </div>
-                <div class="carousel-item">
-                    <img src="{{url('img/dgallery-7.jpg')}}" class="d-block w-100" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="{{url('img/dgallery-8.jpg')}}" class="d-block w-100" alt="...">
-                </div>
+                
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"
                 data-bs-slide="prev">
@@ -69,14 +64,12 @@
             </button>
         </div>
         <div class="gallery d-flex flex-row flex-wrap container-fluid p-5 gap-3 justify-content-center">
-            <img src="{{url('img/dgallery-1.jpg')}}" class="img-fluid img-gallery gallery-active" alt="">
-            <img src="{{url('img/dgallery-2.jpg')}}" class="img-fluid img-gallery" alt="">
-            <img src="{{url('img/dgallery-3.jpg')}}" class="img-fluid img-gallery" alt="">
+            <img src="{{url('img/foto-1.jpg')}}" class="img-fluid img-gallery gallery-active" alt="">
+            <img src="{{url('img/foto-2.jpg')}}" class="img-fluid img-gallery" alt="">
+            <img src="{{url('img/foto-3.jpg')}}" class="img-fluid img-gallery" alt="">
             <img src="{{url('img/dgallery-4.jpg')}}" class="img-fluid img-gallery" alt="">
             <img src="{{url('img/dgallery-5.jpg')}}" class="img-fluid img-gallery" alt="">
             <img src="{{url('img/dgallery-6.jpg')}}" class="img-fluid img-gallery" alt="">
-            <img src="{{url('img/dgallery-7.jpg')}}" class="img-fluid img-gallery" alt="">
-            <img src="{{url('img/dgallery-8.jpg')}}" class="img-fluid img-gallery" alt="">
         </div>
     </section>
     <!-- end galeri -->
