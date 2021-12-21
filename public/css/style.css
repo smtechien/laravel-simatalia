@@ -39,9 +39,8 @@ body {
 }
 
 #bg-intro {
-    background-image: url('../img/foto-3.jpg');
+    background: linear-gradient( 0deg, rgba(0, 0, 0, 0.50),rgba(0, 0, 0, 0.5)), url('../img/foto-3.jpg');
     background-size: cover;
-    background-position: center;
     height: 100vh;
 }
 
