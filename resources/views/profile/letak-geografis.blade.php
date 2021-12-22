@@ -21,7 +21,7 @@
     <!-- jumbotron -->
     <section class="jumbotron-judul p-md-5">
       <h1>Letak Geografis</h1>
-      <p class="url"><span class="text-secondary">Si Mata Lia > Profil Kecamatan ></span> <span class="text-danger fw-bold">Letak Geografis</span></p>
+      <p class="url"><span class="text-secondary"><a class="text-secondary text-decoration-none" href="/">Si Mata Lia</a> > <a class="text-secondary text-decoration-none" href="/profile">Profil Kecamatan</a> > </span><span class="text-danger fw-bold">Letak Geografis</span></p>
       <img class="img-fluid " src="{{url('img/img-geografis.png')}}" alt="logo kecamatan tana lia">
     </section>
     <!-- akhir jumbotron -->

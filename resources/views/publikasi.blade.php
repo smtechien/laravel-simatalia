@@ -26,10 +26,10 @@
     <section class="container-fluid row p-5 m-0">
         <h1 class="p-0 fw-bold mb-3">Publikasi</h1>
         <div class="col-12 p-0">
-            <p class="url pb-3"><span class="text-secondary">Si Mata Lia ></span> <span class="text-danger">Publikasi</span>
+            <p class="url pb-3"><span class="text-secondary"><a class="text-secondary text-decoration-none" href="/">Si Mata Lia</a> > </span><span class="text-danger fw-bold">Publikasi</span>
             </p>
             <div class="mb-5 publikasi-cards">
-                <a class="card text-center px-1 px-lg-3 py-5 list-group-item-action" href="pengumuman">
+                <a class="card text-center px-1 px-lg-3 py-5 list-group-item-action" href="/publikasi/pengumuman">
                     <div class="d-flex flex-column gap-4">
                         <div class="d-flex icon-round align-items-center justify-content-center align-self-center">
                             <span class="material-icons fs-1 color-primary">announcement</span>
@@ -37,7 +37,7 @@
                         <h6 class="card-title">Pengumuman</h6>
                     </div>
                 </a>
-                <a class="card text-center px-1 px-lg-3 py-5 list-group-item-action" href="foto">
+                <a class="card text-center px-1 px-lg-3 py-5 list-group-item-action" href="/publikasi/foto">
                     <div class="d-flex flex-column gap-4">
                         <div class="d-flex icon-round align-items-center justify-content-center align-self-center">
                             <span class="material-icons fs-1 color-primary">photo</span>
@@ -45,7 +45,7 @@
                         <h6 class="card-title">Foto</h6>
                     </div>
                 </a>
-                <a class="card text-center px-1 px-lg-3 py-5 list-group-item-action" href="video">
+                <a class="card text-center px-1 px-lg-3 py-5 list-group-item-action" href="/publikasi/video">
                     <div class="d-flex flex-column gap-4">
                         <div class="d-flex icon-round align-items-center justify-content-center align-self-center">
                             <span class="material-icons fs-1 color-primary">videocam</span>
@@ -53,7 +53,7 @@
                         <h6 class="card-title">Video</h6>
                     </div>
                 </a>
-                <a class="card text-center px-1 px-lg-3 py-5  list-group-item-action" href="berita">
+                <a class="card text-center px-1 px-lg-3 py-5  list-group-item-action" href="/publikasi/berita">
                     <div class="d-flex flex-column gap-4">
                         <div class="d-flex icon-round align-items-center justify-content-center align-self-center">
                             <span class="material-icons fs-1 color-primary">menu_book</span>

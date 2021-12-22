@@ -22,7 +22,7 @@
     <section class="container-fluid row p-5 m-0">
         <h1 class="p-0 fw-bold mb-3">Visi Misi</h1>
         <div class="col-12 col-xl-8 p-0">
-            <p class="url"><span class="text-secondary">Si Mata Lia > Profil Kecamatan ></span> <span
+            <p class="url"><span class="text-secondary"><a class="text-secondary text-decoration-none" href="/">Si Mata Lia</a> > <a class="text-secondary text-decoration-none" href="/profile">Profil Kecamatan</a> > </span><span
                     class="text-danger fw-bold">Visi Misi</span></p>
         <hr>
             <div>
