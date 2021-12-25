@@ -23,7 +23,7 @@
     <section class="container-fluid row px-5 pt-5 pb-3 m-0">
         <h1 class="p-0 fw-bold mb-3">Foto</h1>
         <div class="col-12 p-0">
-            <p class="url"><span class="text-secondary">Si Mata Lia > Publikasi ></span> <span
+            <p class="url"><span class="text-secondary"><a class="text-secondary text-decoration-none" href="/">Si Mata Lia</a> > <a class="text-secondary text-decoration-none" href="/publikasi">Publikasi</a> > <span
                     class="text-danger fw-bold">Foto</span>
             </p>
         </div>

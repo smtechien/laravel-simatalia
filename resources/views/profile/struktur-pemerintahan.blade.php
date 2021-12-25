@@ -4,8 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/bootstrap-icons.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/bootstrap-icons.css">
@@ -23,10 +22,9 @@
     <section class="container-fluid row p-5 m-0">
         <h1 class="p-0 fw-bold mb-3">Struktur Organisasi</h1>
         <div class="col-12 col-xl-8 p-0">
-            <p class="url"><span class="text-secondary">Si Mata Lia > Profil Kecamatan ></span> <span
-                    class="text-danger fw-bold">Struktur Pemerintahan</span></p>
+            <p class="url"><span class="text-secondary"><a class="text-secondary text-decoration-none" href="/">Si Mata Lia</a> > <a class="text-secondary text-decoration-none" href="/profile">Profil Kecamatan</a> > </span><span class="text-danger fw-bold">Struktur Pemerintahan</span></p>
             <!-- <iframe id="doc_23125" class="d-block mb-3" title="Struktur Organisasi Pemprov Kaltim" src="https://www.scribd.com/embeds/366861680/content?start_page=1&amp;view_mode=scroll&amp;access_key=key-pp8NtZQXIglozbQhQCSJ&amp;show_recommendations=true" width="100%" height="600px" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="1.645985401459854"></iframe> -->
-                <iframe class="scribd_iframe_embed" title="Struktur Organisasi" src="https://www.scribd.com/embeds/547779301/content?start_page=1&view_mode=scroll&access_key=key-TJSxxy66iUDfXGaDEpcL" data-auto-height="true" data-aspect-ratio="0.75" scrolling="no" id="doc_93537" width="100%" height="600" frameborder="0"></iframe>
+            <iframe class="scribd_iframe_embed" title="Struktur Organisasi" src="https://www.scribd.com/embeds/547779301/content?start_page=1&view_mode=scroll&access_key=key-TJSxxy66iUDfXGaDEpcL" data-auto-height="true" data-aspect-ratio="0.75" scrolling="no" id="doc_93537" width="100%" height="600" frameborder="0"></iframe>
         </div>
         <div class="col d-flex flex-column side-content">
             <h4 class="fw-bolder mb-3">Terbaru</h4>

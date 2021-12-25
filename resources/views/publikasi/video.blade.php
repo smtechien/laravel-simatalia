@@ -21,7 +21,7 @@
     <section class="container-fluid row p-5 m-0">
         <h1 class="p-0 fw-bold mb-3">Video</h1>
         <div class="col-12 p-0">
-            <p class="url pb-3"><span class="text-secondary">Si Mata Lia > Publikasi ></span> <span class="text-danger fw-bold">Video</span>
+            <p class="url pb-3"><span class="text-secondary"><a class="text-secondary text-decoration-none" href="/">Si Mata Lia</a> > <a class="text-secondary text-decoration-none" href="/publikasi">Publikasi</a> > <span class="text-danger fw-bold">Video</span>
             </p>
             <div class="d-flex gap-4 flex-wrap justify-content-around">
             @for ($i = 0; $i < 9; $i++)

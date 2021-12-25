@@ -41,6 +41,16 @@ $(document).ready(function () {
 
 });
 
+$(".img-gallery").css("cursor", "pointer");
+$(".img-gallery").attr("data-bs-target", "#carouselExampleControls");
+let imgGallery = $(".img-gallery");
+let index = 0;
+
+for (const element of imgGallery) {
+    $(element).attr("data-bs-slide-to", index);
+    index++;
+}
+
 $("#carouselExampleControls").bind("slide.bs.carousel", function (e) {
     setTimeout(() => {
         let carouselState = $("#carouselExampleControls > .carousel-inner > .active > img");
