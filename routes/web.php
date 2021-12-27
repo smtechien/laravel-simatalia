@@ -66,3 +66,12 @@ Route::get('/publikasi/berita', function(){
 Route::get('/publikasi/berita/judul-berita', function(){
     return view('publikasi/konten-berita');
 });
+
+// pemerintahan section
+Route::get('/pemerintahan', function (){
+    return view('pemerintahan');
+});
+
+Route::get('/pemerintahan/pemerintahan-desa', function (){
+    return view('pemerintahan/desa');
+});
