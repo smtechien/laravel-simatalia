@@ -44,10 +44,14 @@
                         Pemerintahan
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <li><a class="dropdown-item" href="#">Sekretariat</a></li>
-                        <li><a class="dropdown-item" href="#">Sub bagian</a></li>
-                        <li><a class="dropdown-item" href="#">Sub bag program & pelaporan</a></li>
-                        <li><a class="dropdown-item" href="#">Seksi pelayanan umum</a></li>
+                        <li><a class="dropdown-item" href="/pemerintahan/pemerintahan-desa">Pemerintahan Desa</a></li>
+                        <li><a class="dropdown-item" href="/pemerintahan/pengurus-RT">Pengurus RT</a></li>
+                        <li><a class="dropdown-item" href="/pemerintahan/pengurus-BPD">Pengurus BPD</a></li>
+                        <li><a class="dropdown-item" href="/pemerintahan/pengurus-LPM">Pengurus LPM</a></li>
+                        <li><a class="dropdown-item" href="/pemerintahan/pengurus-adat">Pengurus Adat</a></li>
+                        <li><a class="dropdown-item" href="/pemerintahan/pengurus-karang-taruna">Pengurus Karang Taruna</a></li>
+                        <li><a class="dropdown-item" href="/pemerintahan/pengurus-PKK">Pengurus PKK</a></li>
+                        <li><a class="dropdown-item" href="/pemerintahan/pengurus-masjid">Pengurus Masjid dan Mushola</a></li>
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
