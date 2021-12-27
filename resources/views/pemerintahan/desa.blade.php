@@ -24,49 +24,50 @@
             <p class="url"><span class="text-secondary"><a class="text-secondary text-decoration-none" href="/">Si Mata Lia</a> > <a class="text-secondary text-decoration-none" href="/pemerintahan">Pemerintahan</a> > </span><span class="text-danger fw-bold">Pemerintahan Desa</span></p>
             <hr>
             <h4 class="fw-bold mt-4 mb-3">Tanah Merah</h4>
-            <table class="table table-striped table-bordered">
-                <tbody>
-                    <tr>
-                        <td>Kepala Desa</td>
-                        <td>Sidik</td>
-                    </tr>
-                    <tr>
-                        <td>Sekertaris Desa</td>
-                        <td>Taufik Walhidayat, S.Kom</td>
-                    </tr>
-                    <tr>
-                        <td>Bendahara</td>
-                        <td>Dedi Sunardi, S.Pd</td>
-                    </tr>
-                    <tr>
-                        <td>Kasi Pemerintahan</td>
-                        <td>Sabri</td>
-                    </tr>
-                    <tr>
-                        <td>Kaur Perencanaan</td>
-                        <td>Rahmat Hidayat</td>
-                    </tr>
-                    <tr>
-                        <td>Kaur Umum</td>
-                        <td>Siti Sadiah, SE</td>
-                    </tr>
-                    <tr>
-                        <td>Kaur Keuangan</td>
-                        <td>Dahlia Lestari, SE</td>
-                    </tr>
-                    <tr>
-                        <td>Kasi Kesejahteraan</td>
-                        <td>Siti Nurbaya</td>
-                    </tr>
-                    <tr>
-                        <td>Kasi Pelayanan</td>
-                        <td>Jumain</td>
-                    </tr>
-                </tbody>
-            </table>
+            <div class="table-responsive">
+                <table class="table table-striped table-bordered">
+                    <tbody>
+                        <tr>
+                            <td>Kepala Desa</td>
+                            <td>Sidik</td>
+                        </tr>
+                        <tr>
+                            <td>Sekertaris Desa</td>
+                            <td>Taufik Walhidayat, S.Kom</td>
+                        </tr>
+                        <tr>
+                            <td>Bendahara</td>
+                            <td>Dedi Sunardi, S.Pd</td>
+                        </tr>
+                        <tr>
+                            <td>Kasi Pemerintahan</td>
+                            <td>Sabri</td>
+                        </tr>
+                        <tr>
+                            <td>Kaur Perencanaan</td>
+                            <td>Rahmat Hidayat</td>
+                        </tr>
+                        <tr>
+                            <td>Kaur Umum</td>
+                            <td>Siti Sadiah, SE</td>
+                        </tr>
+                        <tr>
+                            <td>Kaur Keuangan</td>
+                            <td>Dahlia Lestari, SE</td>
+                        </tr>
+                        <tr>
+                            <td>Kasi Kesejahteraan</td>
+                            <td>Siti Nurbaya</td>
+                        </tr>
+                        <tr>
+                            <td>Kasi Pelayanan</td>
+                            <td>Jumain</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
             <h4 class="fw-bold mt-4 mb-3">Sambungan</h4>
             <div class="table-responsive">
-
                 <table class="table table-striped table-bordered align-middle">
                     <tbody>
                         <tr>
@@ -104,6 +105,135 @@
                         <tr>
                             <td>Kasi Pelayanan</td>
                             <td>Slipinah</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <h4 class="fw-bold mt-4 mb-3">Tengku Dacing</h4>
+            <div class="table-responsive">
+                <table class="table table-striped table-bordered align-middle">
+                    <tbody>
+                        <tr>
+                            <td>Kepala Desa</td>
+                            <td>Jahatun</td>
+                        </tr>
+                        <tr>
+                            <td>Sekertaris Desa</td>
+                            <td>Jumaan</td>
+                        </tr>
+                        <tr>
+                            <td>Bendahara</td>
+                            <td>Nubaya</td>
+                        </tr>
+                        <tr>
+                            <td>Kasi Pemerintahan</td>
+                            <td>Aidi</td>
+                        </tr>
+                        <tr>
+                            <td>Kaur Perencanaan</td>
+                            <td>Badarudin</td>
+                        </tr>
+                        <tr>
+                            <td>Kaur Umum</td>
+                            <td>Abdul Said</td>
+                        </tr>
+                        <tr>
+                            <td>Kaur Keuangan</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <td>Kasi Kesejahteraan</td>
+                            <td>Saerah</td>
+                        </tr>
+                        <tr>
+                            <td>Kasi Pelayanan</td>
+                            <td>Misran</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <h4 class="fw-bold mt-4 mb-3">Tanah Merah Barat</h4>
+            <div class="table-responsive">
+                <table class="table table-striped table-bordered align-middle">
+                    <tbody>
+                        <tr>
+                            <td>Kepala Desa</td>
+                            <td>Mantari Gumban, S.Sos</td>
+                        </tr>
+                        <tr>
+                            <td>Sekertaris Desa</td>
+                            <td>Harmila</td>
+                        </tr>
+                        <tr>
+                            <td>Bendahara</td>
+                            <td>Laila Maznun</td>
+                        </tr>
+                        <tr>
+                            <td>Kasi Pemerintahan</td>
+                            <td>Sarpilawati</td>
+                        </tr>
+                        <tr>
+                            <td>Kaur Perencanaan</td>
+                            <td>Achamadin</td>
+                        </tr>
+                        <tr>
+                            <td>Kaur Umum</td>
+                            <td>Rutinah</td>
+                        </tr>
+                        <tr>
+                            <td>Kaur Keuangan</td>
+                            <td>Dinarjo</td>
+                        </tr>
+                        <tr>
+                            <td>Kasi Kesejahteraan</td>
+                            <td>Budimansyah</td>
+                        </tr>
+                        <tr>
+                            <td>Kasi Pelayanan</td>
+                            <td>Mus Muliadi, SE</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <h4 class="fw-bold mt-4 mb-3">Sambungan Selatan</h4>
+            <div class="table-responsive">
+                <table class="table table-striped table-bordered align-middle">
+                    <tbody>
+                        <tr>
+                            <td>Kepala Desa</td>
+                            <td>Satriawan, S.Sos</td>
+                        </tr>
+                        <tr>
+                            <td>Sekertaris Desa</td>
+                            <td>Amir, ST</td>
+                        </tr>
+                        <tr>
+                            <td>Bendahara</td>
+                            <td>Sumarna</td>
+                        </tr>
+                        <tr>
+                            <td>Kasi Pemerintahan</td>
+                            <td>Munalisa</td>
+                        </tr>
+                        <tr>
+                            <td>Kaur Perencanaan</td>
+                            <td>Abul Rohman</td>
+                        </tr>
+                        <tr>
+                            <td>Kaur Umum</td>
+                            <td>Sahran</td>
+                        </tr>
+                        <tr>
+                            <td>Kaur Keuangan</td>
+                            <td>Silpinah</td>
+                        </tr>
+                        <tr>
+                            <td>Kasi Kesejahteraan</td>
+                            <td>Amir Hamzah</td>
+                        </tr>
+                        <tr>
+                            <td>Kasi Pelayanan</td>
+                            <td>Aisyah</td>
                         </tr>
                     </tbody>
                 </table>
