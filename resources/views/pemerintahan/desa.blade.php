@@ -28,8 +28,8 @@
                 <table class="table table-striped table-bordered">
                     <tbody>
                         <tr>
-                            <td>Kepala Desa</td>
-                            <td>Sidik</td>
+                            <td class="col-6">Kepala Desa</td>
+                            <td class="col-6">Sidik</td>
                         </tr>
                         <tr>
                             <td>Sekertaris Desa</td>
@@ -71,8 +71,8 @@
                 <table class="table table-striped table-bordered align-middle">
                     <tbody>
                         <tr>
-                            <td>Kepala Desa</td>
-                            <td>Jumadil</td>
+                            <td class="col-6">Kepala Desa</td>
+                            <td class="col-6">Jumadil</td>
                         </tr>
                         <tr>
                             <td>Sekertaris Desa</td>
@@ -114,8 +114,8 @@
                 <table class="table table-striped table-bordered align-middle">
                     <tbody>
                         <tr>
-                            <td>Kepala Desa</td>
-                            <td>Jahatun</td>
+                            <td class="col-6">Kepala Desa</td>
+                            <td class="col-6">Jahatun</td>
                         </tr>
                         <tr>
                             <td>Sekertaris Desa</td>
@@ -157,8 +157,8 @@
                 <table class="table table-striped table-bordered align-middle">
                     <tbody>
                         <tr>
-                            <td>Kepala Desa</td>
-                            <td>Mantari Gumban, S.Sos</td>
+                            <td class="col-6">Kepala Desa</td>
+                            <td class="col-6">Mantari Gumban, S.Sos</td>
                         </tr>
                         <tr>
                             <td>Sekertaris Desa</td>
@@ -200,8 +200,8 @@
                 <table class="table table-striped table-bordered align-middle">
                     <tbody>
                         <tr>
-                            <td>Kepala Desa</td>
-                            <td>Satriawan, S.Sos</td>
+                            <td class="col-6">Kepala Desa</td>
+                            <td class="col-6">Satriawan, S.Sos</td>
                         </tr>
                         <tr>
                             <td>Sekertaris Desa</td>

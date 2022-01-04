@@ -91,3 +91,15 @@ Route::get('/pemerintahan/pengurus-pkk', function (){
 Route::get('/pemerintahan/pengurus-masjid-dan-mushola', function (){
     return view('pemerintahan/masjid-mushola');
 });
+
+Route::get('/pemerintahan/pengurus-RT', function (){
+    return view('pemerintahan/rt');
+});
+
+Route::get('/pemerintahan/pengurus-BPD', function (){
+    return view('pemerintahan/bpd');
+});
+
+Route::get('/pemerintahan/pengurus-LPM', function (){
+    return view('pemerintahan/lpm');
+});
