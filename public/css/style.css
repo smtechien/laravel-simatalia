@@ -220,6 +220,10 @@ body {
 
 }
 
+table>tbody>tr>td {
+    color: #393939 !important;
+}
+
 @media screen and (max-width: 1300px) {
     .side-content {
         padding-left: 0px;

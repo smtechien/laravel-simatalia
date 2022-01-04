@@ -76,7 +76,7 @@
                         <h6 class="card-title">Pengurus Karang Taruna</h6>
                     </div>
                 </a>
-                <a class="card text-center px-1 px-lg-3 py-5  list-group-item-action" href="/pemerintahan/pengurus-PKK">
+                <a class="card text-center px-1 px-lg-3 py-5  list-group-item-action" href="/pemerintahan/pengurus-pkk">
                     <div class="d-flex flex-column gap-4">
                         <div class="d-flex icon-round align-items-center justify-content-center align-self-center">
                             <span class="material-icons fs-1 color-primary">people</span>

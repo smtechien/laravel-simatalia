@@ -75,3 +75,19 @@ Route::get('/pemerintahan', function (){
 Route::get('/pemerintahan/pemerintahan-desa', function (){
     return view('pemerintahan/desa');
 });
+
+Route::get('/pemerintahan/pengurus-adat', function (){
+    return view('pemerintahan/adat');
+});
+
+Route::get('/pemerintahan/pengurus-karang-taruna', function (){
+    return view('pemerintahan/karangtaruna');
+});
+
+Route::get('/pemerintahan/pengurus-pkk', function (){
+    return view('pemerintahan/pkk');
+});
+
+Route::get('/pemerintahan/pengurus-masjid-dan-mushola', function (){
+    return view('pemerintahan/masjid-mushola');
+});
