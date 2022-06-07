@@ -24,7 +24,8 @@
         <div class="col-12 col-xl-8 p-0">
             <p class="url"><span class="text-secondary"><a class="text-secondary text-decoration-none" href="/">Si Mata Lia</a> > <a class="text-secondary text-decoration-none" href="/profile">Profil Kecamatan</a> > </span><span class="text-danger fw-bold">Struktur Pemerintahan</span></p>
             <!-- <iframe id="doc_23125" class="d-block mb-3" title="Struktur Organisasi Pemprov Kaltim" src="https://www.scribd.com/embeds/366861680/content?start_page=1&amp;view_mode=scroll&amp;access_key=key-pp8NtZQXIglozbQhQCSJ&amp;show_recommendations=true" width="100%" height="600px" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="1.645985401459854"></iframe> -->
-            <iframe class="scribd_iframe_embed" title="Struktur Organisasi" src="https://www.scribd.com/embeds/547779301/content?start_page=1&view_mode=scroll&access_key=key-TJSxxy66iUDfXGaDEpcL" data-auto-height="true" data-aspect-ratio="0.75" scrolling="no" id="doc_93537" width="100%" height="600" frameborder="0"></iframe>
+            <iframe class="scribd_iframe_embed" title="Sotk Cetak - Peta Jabatan" src="https://www.scribd.com/embeds/577362590/content?start_page=1&view_mode=scroll&access_key=key-qFqrIHDAdziXWzULjXSm" data-auto-height="false" data-aspect-ratio="0.6536231884057971" scrolling="no" id="doc_83802" width="100%" height="800" frameborder="0"></iframe>
+            <iframe class="scribd_iframe_embed" title="Data Pns Ktl 2022 - Kec Tana Lia 2021" src="https://www.scribd.com/embeds/577362592/content?start_page=1&view_mode=scroll&access_key=key-nLqfd8xK4RoiZrUFl6Qw" data-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_14730" width="100%" height="800" frameborder="0"></iframe>
         </div>
         <div class="col d-flex flex-column side-content">
             <h4 class="fw-bolder mb-3">Terbaru</h4>
