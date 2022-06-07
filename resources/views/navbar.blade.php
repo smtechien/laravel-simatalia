@@ -51,7 +51,7 @@
                         <li><a class="dropdown-item" href="/pemerintahan/pengurus-adat">Pengurus Adat</a></li>
                         <li><a class="dropdown-item" href="/pemerintahan/pengurus-karang-taruna">Pengurus Karang Taruna</a></li>
                         <li><a class="dropdown-item" href="/pemerintahan/pengurus-pkk">Pengurus PKK</a></li>
-                        <li><a class="dropdown-item" href="/pemerintahan/pengurus-masjid">Pengurus Masjid dan Mushola</a></li>
+                        <li><a class="dropdown-item" href="/pemerintahan/pengurus-masjid-dan-mushola">Pengurus Masjid dan Mushola</a></li>
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
